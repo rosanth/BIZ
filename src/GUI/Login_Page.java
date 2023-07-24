@@ -10,9 +10,6 @@ package GUI;
  * @author THANATOS
  */
 public class Login_Page {
-    int a=15,b=20;
-    int mul(){
-    return a*b;
-    }
+    
     
 }
