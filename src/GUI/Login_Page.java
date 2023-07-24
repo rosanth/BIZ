@@ -10,5 +10,9 @@ package GUI;
  * @author THANATOS
  */
 public class Login_Page {
+    int a=10,b=20;
+    int add(){
+    return a+b;
+    }
     
 }
