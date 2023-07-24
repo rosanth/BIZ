@@ -12,7 +12,7 @@ package GUI;
 public class Login_Page {
     int a=10,b=20;
     int add(){
-    return 2*(a+b);
+    return 2*(a+b+b);
     }
     
 }
