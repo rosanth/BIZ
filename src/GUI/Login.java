@@ -45,7 +45,7 @@ public class Login extends javax.swing.JFrame {
 
         jLabel2.setText("Full Name");
 
-        jLabel3.setText("Age");
+        jLabel3.setText("Address");
 
         jLabel4.setText("Gender");
 
