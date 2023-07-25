@@ -41,7 +41,7 @@ public class Login extends javax.swing.JFrame {
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
-        jLabel1.setText("Name");
+        jLabel1.setText("First Name");
 
         jLabel2.setText("Full Name");
 
@@ -87,7 +87,7 @@ public class Login extends javax.swing.JFrame {
                                 .addGap(14, 14, 14)
                                 .addComponent(jButton5))))
                     .addComponent(jButton6))
-                .addContainerGap(49, Short.MAX_VALUE))
+                .addContainerGap(44, Short.MAX_VALUE))
         );
 
         layout.linkSize(javax.swing.SwingConstants.HORIZONTAL, new java.awt.Component[] {jRadioButton1, jRadioButton2});
