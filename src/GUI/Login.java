@@ -64,7 +64,7 @@ public class Login extends javax.swing.JFrame {
 
         jRadioButton2.setText("Female");
 
-        jLabel5.setText("Full Name");
+        jLabel5.setText("First Name");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
